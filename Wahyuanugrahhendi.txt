@@ -1,0 +1,31 @@
+Terdapat beberapa metode pengujian perangkat lunak yang digunakan untuk memastikan kualitas dan kinerja perangkat lunak sebelum dirilis ke pasar. Berikut adalah penjelasan singkat tentang beberapa metode pengujian perangkat lunak yang umum digunakan:
+
+Pengujian Fungsional:
+Metode ini bertujuan untuk memeriksa apakah perangkat lunak berfungsi sesuai dengan spesifikasi yang telah ditetapkan. Pengujian ini menguji berbagai fitur dan fungsi perangkat lunak untuk memastikan bahwa semuanya bekerja dengan benar.
+
+Pengujian Unit:
+Pengujian unit dilakukan pada tingkat terkecil dari perangkat lunak, yaitu pada level modul atau komponen individu. Setiap modul diuji secara terisolasi untuk memastikan bahwa setiap bagian dari perangkat lunak berjalan dengan baik.
+
+Pengujian Integrasi:
+Pada tahap ini, berbagai modul atau komponen yang telah diuji secara individual digabungkan dan diuji bersama-sama. Tujuannya adalah untuk memastikan bahwa interaksi antara modul-modul tersebut tidak menghasilkan masalah atau konflik.
+
+Pengujian Sistem:
+Pada tahap ini, keseluruhan perangkat lunak diuji sebagai sebuah sistem yang lengkap. Pengujian ini mencakup berbagai skenario penggunaan dan situasi untuk memastikan bahwa perangkat lunak beroperasi sebagaimana mestinya.
+
+Pengujian Regresi:
+Pengujian regresi dilakukan setelah ada perubahan dalam perangkat lunak, seperti penambahan fitur atau perbaikan bug. Pengujian ini bertujuan untuk memastikan bahwa perubahan baru tidak mengganggu fungsi yang sudah ada sebelumnya.
+
+Pengujian Performa:
+Pengujian performa dilakukan untuk mengukur kinerja perangkat lunak dalam hal kecepatan, skala, responsivitas, dan penggunaan sumber daya. Hal ini penting untuk memastikan bahwa perangkat lunak dapat menangani beban kerja yang diharapkan tanpa mengalami penurunan performa yang signifikan.
+
+Pengujian Keamanan:
+Pengujian keamanan bertujuan untuk mengidentifikasi potensi kerentanan dan risiko keamanan dalam perangkat lunak. Ini melibatkan pengujian penetrasi dan analisis keamanan untuk mengidentifikasi celah atau ancaman potensial.
+
+Pengujian Usabilitas:
+Pengujian usabilitas fokus pada pengalaman pengguna. Tim pengujian akan mengevaluasi sejauh mana perangkat lunak mudah digunakan, intuitif, dan efisien bagi pengguna akhir.
+
+Pengujian Kompatibilitas:
+Pengujian kompatibilitas melibatkan pengujian perangkat lunak pada berbagai platform, perangkat keras, sistem operasi, dan kombinasi perangkat lainnya. Tujuannya adalah untuk memastikan bahwa perangkat lunak dapat berfungsi dengan baik di berbagai lingkungan.
+
+Pengujian Penyelenggaraan:
+Pengujian ini fokus pada proses instalasi, peningkatan, dan pemeliharaan perangkat lunak. Tujuannya adalah untuk memastikan bahwa perangkat lunak dapat diimplementasikan dan dikelola dengan lancar.
