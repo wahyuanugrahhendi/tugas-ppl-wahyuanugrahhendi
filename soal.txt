@@ -1,0 +1,8 @@
+1. Sistem apa yang anda kembangkan pada mata kuliah ini?
+Jawab: web service pendataan siswa dan profile sekolah menggunakan framework laravel di smk 99 Bandar Lampung
+
+2. Apa tujuan anda mengembangkan sistem tersebut?
+Jawab: Buat mendata siswa agar lebih mudah
+
+3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
+Jawab: Agar mempermudah pendataan siswa di smk 99 bandar lampung
